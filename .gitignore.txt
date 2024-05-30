@@ -1,0 +1,3 @@
+wp-content.php
+wp-admin
+.gitignore

@@ -1,0 +1,90 @@
+# Translation of Themes - Avire in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Avire package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-05-25 07:24:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Avire\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Lightning Fast Speed & Responsive Theme. Avire is a responsive and fully customizable theme to create any kind of websites. The advanced admin panel will enable you to customize it without any technical knowledge. This theme is lightweight, it will enable you to create almost any type of website such a blog, portfolio, acting and shooting industry, total trendy news, newspaper, mega magazine, fashion, dark themes, petcare, animals wildlife, wooden architecture, plumbing contractor, painting estate, interior design, rooms furniture, home decoration, green floral nature, construction, corporate, multiple agency, business promotion, dark variation, industries, Beauty & spa salons, photography, gym, fitness, health, medical, startups, business agencies, law firms, travel, NGO, charity, yoga, kids education, training institute, university portal, restaurant, meta shop, quick magazines, mutual fund, finance, accounting, consulting ,travel agency website. Theme is fully compatible with popular WordPress plugins like Elementor Page Builder, Slider, Carousal, Beaver Builder, Brizy, Visual Composer, Divi, SiteOrigin, Gutenberg, Block-Enabled, WooCommerce, WPML, Yoast SEO, Shortcode, Jetpack, Contact Form 7, Mailchimp for WordPress, bbPress, Demo Importer, WPForms and more. Your WordPress website will never be let down with this theme. View the demo of Avire Pro https://demo.themesdaddy.com/avire-pro/"
+msgstr "Tema ultrarrápido y adaptable. Avire es un tema adaptable y totalmente personalizable para crear cualquier tipo de sitio web. El avanzado panel de administrador te permitirá personalizarlo sin necesidad de conocimientos técnicos. Este tema es ligero, te permitirá crear casi cualquier tipo de sitio web, como blog, porfolio, industria de la actuación y el rodaje, noticias de tendencias, periódico, mega revista, moda, temas oscuros, cuidado de mascotas, animales salvajes, arquitectura de madera, contratista de fontanería, inmobiliaria de pintura, diseño de interiores, mobiliario de habitaciones, decoración del hogar, naturaleza floral verde, construcción, corporativo, agencia múltiple, promoción empresarial, variación oscura, industrias, salones de belleza y spa, fotografía, gimnasio, fitness, salud, medicina, startups, agencias de negocios, bufetes de abogados, viajes, ONG, caridad, yoga, educación infantil, instituto de formación, portal universitario, restaurante, metatienda, revistas rápidas, fondo de inversión, finanzas, contabilidad, consultoría, sitio web de agencia de viajes. El tema es totalmente compatible con plugins populares de WordPress como Elementor Page Builder, Slider, Carousal, Beaver Builder, Brizy, Visual Composer, Divi, SiteOrigin, Gutenberg, Block-Enabled, WooCommerce, WPML, Yoast SEO, Shortcode, Jetpack, Contact Form 7, Mailchimp for WordPress, bbPress, Demo Importer, WPForms y muchos más. Tu sitio web de WordPress nunca quedará defraudado con este tema. Ver la demo de Avire Pro https://demo.themesdaddy.com/avire-pro/"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Avire"
+msgstr "Avire"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:20
+msgid "Share a Good Review"
+msgstr "Comparte una buena reseña"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:18
+msgid "Upgrade to Pro"
+msgstr "Actualízate a Pro"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:16
+msgid "Premium Demo"
+msgstr "Demostración de la versión Premium"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:14
+msgid "Need Support ?"
+msgstr "¿Necesitas soporte?"
+
+#: theme-header.php:113
+msgid "Header Close Menu"
+msgstr "Cerrar menú de cabecera"
+
+#: theme-header.php:104
+msgid "Menu Collaped"
+msgstr "Menú plegado"
+
+#: theme-header.php:66
+msgid "Search Popup Close"
+msgstr "Cerrar la ventana emergente de la búsqueda"
+
+#: theme-header.php:63
+msgid "Type To Search"
+msgstr "Escribe para buscar"
+
+#: theme-header.php:62
+msgid "Site Search"
+msgstr "Búsqueda del sitio"
+
+#: theme-header.php:59
+msgid "Search Popup"
+msgstr "Búsqueda emergente"
+
+#: theme-header.php:43
+msgid "0"
+msgstr "0"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themesdaddy.com/themes/avire-free/"
+msgstr "https://themesdaddy.com/themes/avire-free/"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themesdaddy.com/"
+msgstr "https://themesdaddy.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Themes Daddy"
+msgstr "Themes Daddy"
